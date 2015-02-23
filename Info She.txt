@@ -39,6 +39,12 @@ Does your program run without error?: Yes
 If not, what is/are the error(s) and which parts of your program run
 correctly?:
 
+My program is ran via the command line like so:
+
+java MyLZW - r input_file output_file
+
+I missinterpreted the use of the < and > symbol in the directions..but other than that little difference it works fine
+
 
 
 
